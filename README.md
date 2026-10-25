@@ -24,4 +24,3 @@ GPU 版 PyTorch 来自官方 CUDA 13.0 包索引。本机安装的 CUDA Toolkit 
 GitHub 仓库地址为 `https://github.com/Jingjing0819Zhan/NR-IQA.git`。代码、配置、说明和小型结果摘要适合同步；`.venv`、本机 Python、缓存、原始图片、模型权重及大型实验输出由 `.gitignore` 排除。另一台电脑应建立自己的环境；不要复制本机 `.venv`，也不要将本机 GPU 锁定文件直接作为无 GPU 机器的安装命令。
 
 本机使用 GitHub no-reply 邮箱记录初始提交；以后可在 Git 中配置你希望显示的姓名和邮箱。
-111
