@@ -1,0 +1,10 @@
+# RALI author's setup.sh pins transformers; other versions are not pinned there.
+# This is an installation starting point, not a tested full lock file.
+# Install a suitable torch/torchvision build separately on the execution host.
+transformers==4.51.3
+joblib
+scikit-learn
+numpy
+Pillow
+tqdm
+scipy

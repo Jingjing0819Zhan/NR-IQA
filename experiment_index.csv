@@ -1,0 +1,3 @@
+experiment_id,question,model,dataset,status,latest_run_id,main_result,conclusion_path,next_step
+E000,验证预训练单图推理,RALI,作者示例图片,prepared,,尚未运行,experiments/E000/conclusion.md,独显主机检查输入后执行
+E001,验证小子集预测与人类评分相关性,RALI,KonIQ测试子集待核对,planned,,尚未运行,experiments/E001/conclusion.md,E000成功后准备固定名单

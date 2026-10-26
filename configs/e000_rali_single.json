@@ -1,0 +1,10 @@
+{
+  "experiment_id": "E000",
+  "upstream_repo": "../NR-IQA-baselines/RALI",
+  "checkpoint_dir": "checkpoints/RALI",
+  "image_path": "../NR-IQA-baselines/RALI/assets/demo_image.png",
+  "device": "cuda",
+  "warmup_runs": 1,
+  "timed_runs": 3,
+  "record_root": "experiments/E000/records"
+}
